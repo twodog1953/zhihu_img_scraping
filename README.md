@@ -7,6 +7,6 @@ How to run:
 
 Just enter the question number from the url into the q_num variable, and run the code. A folder should be created in the directory of the script and images scraped would be stored in there labelled in numbers. 
 
-By stofzuiger
+By twodog
 
 2020.8.6
